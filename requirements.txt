@@ -1,0 +1,9 @@
+Django==1.10
+django-extensions==1.7.1
+django-redis==4.4.4
+elasticsearch==2.4.0
+fake-factory==0.6.0
+requests==2.11.0
+ipdb==0.8.1
+ipdbplugin==1.4.2
+ipython==4.0.0
